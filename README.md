@@ -1,5 +1,4 @@
-HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
-=======
+# Portfolio Website
 
 # Tools used #
 * HTML, CSS and JavaScript
@@ -7,5 +6,5 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 * [Font Awesome 5](https://fontawesome.com/)
 * [google map](https://www.embed-map.com/)
 
-This is the [live demo]("Enter Link") of the project . 
+This is the [live demo](https://shivambansal96.github.io/oibsip_taskno.2/) of the project . 
 
